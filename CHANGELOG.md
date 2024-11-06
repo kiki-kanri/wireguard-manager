@@ -2,6 +2,8 @@
 
 ## v0.1.0
 
+[compare changes](https://github.com/kiki-kanri/wireguard-manager/compare/255109251c584071b81c53605897fd1ea6f881c4...v0.1.0)
+
 ### 📖 Documentation
 
 - Add README ([b19c7b2](https://github.com/kiki-kanri/wireguard-manager/commit/b19c7b2))
