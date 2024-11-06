@@ -9,6 +9,9 @@
     "url": "git+https://github.com/kiki-kanri/wireguard-manager.git"
   },
   "type": "module",
+  "files": [
+    "./dist"
+  ],
   "scripts": {
     "type-check": "tsc"
   },
