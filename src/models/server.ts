@@ -37,10 +37,10 @@ export class ServerModel extends Model {
 	declare port: number;
 
 	@Column({ type: DataType.TEXT })
-	declare postDown: string;
+	declare postDown: Nullable<string>;
 
 	@Column({ type: DataType.TEXT })
-	declare postUp: string;
+	declare postUp: Nullable<string>;
 
 	@Column({
 		allowNull: false,
